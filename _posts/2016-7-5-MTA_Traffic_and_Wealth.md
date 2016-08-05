@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome!
+title: MTA Traffic
 ---
 
 Here's a brief exploration into the realm of traffic on the MTA. We all know there's traffic on the 4,5,6 but just how do those numbers stack up to the rest of the city? More specifically, I investigated a hypothetical scenario for street outreach to wealthy donors. Yes, perhaps this is a misguided cause to start with. After all, how many wealthy donors will you really successfully solicit on the street or at subway stations? Nonetheless, this initial analysis could prove fruitful for determining preliminary target areas and more marketing research on how to best approach potential donors could then be conducted. 
