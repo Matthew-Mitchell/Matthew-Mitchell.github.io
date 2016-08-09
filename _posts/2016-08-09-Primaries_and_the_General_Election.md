@@ -7,8 +7,8 @@ Quite a few of us are worried about the upcoming election. Certainly this year h
 
 Let’s take a look at some of the previous analysis and claims by Politifact and Five Thirty Eight. Their initial analysis was checking David Brook’s claim that the surge in Republican primary turnout was not indicative of a Trump win come November.  Yet the analysis used to justify these claims is overly simplistic. In fact, the meager analysis simply looks at previous elections where both parties held primaries and merely looks at the total number of voters from either party and whether this determined the winner of the general election. Here’s their summary:
 
-![My helpful screenshot]({{matthew-mitchell.github.io}}/images/Screen Shot 2016-08-09 at 10.40.28AM.png)
- 
+![Republican Voter Turnout 2012]({{matthew-mitchell.github.io}}/images/primary1.png)
+ <!--![Republican Voter Turnout 2012](/images/primar1.png "Republican Voter Turnout 2012”)-->
 
 Isn’t this a bit absurd?  Would we really expect the overall primary turnout to match who wins the general election? Both Five Thirty Eight and Politifact make some good points that primary turnout may be indicative of a competitive primary, with higher voter turnout early on while the nomination is still up for grabs, and diminishing participation as one candidate takes the lead and seals their victory. This rational is at least plausible, yet neither this nor any other potential nuances are factored into their analysis. The general election is often all about swing states. When’s the last time Texas went blue or Massachusetts went red?  Wouldn’t we be better served to look at the primaries versus the general election on a more granular level? Let’s take a look. For a first investigation let’s take a look at the percentage of people from each county who voted in the 2012 Republican Primary compared with the percentage of people from that same county who voted for Mitt Romney in the general election.
 
