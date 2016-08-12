@@ -75,7 +75,7 @@ var tooltip = d3.select("body").append("div")
     .style("opacity", 0);
 
 // load data
-d3.csv("/_includes/interactive_scatter_data.csv", function(error, data) {
+d3.csv("/interactive_scatter_data.csv", function(error, data) {
 
   // change string (from CSV) into number format
   data.forEach(function(d) {
