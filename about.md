@@ -8,7 +8,7 @@ permalink: /about/
 
 ### More Information
 
-Hi there! I'm a math affecionado ready to dig into some data! I hope you enjoy what you find and would enjoy discussing data science with you!
+Hi there! I'm a math aficionado ready to dig into some data! I hope you enjoy what you find and would enjoy discussing data science with you!
 
 ### Contact me
 
