@@ -159,7 +159,3 @@ d3.csv("interactive_scatter_data.csv", function(error, data) {
 });
 
 </script>
-
-<! And Now For Something Completely Different!>
-<!A Map>
-<!.attr("transform", "translate(0," + height + ")")>
