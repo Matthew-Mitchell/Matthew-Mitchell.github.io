@@ -2,8 +2,7 @@
 layout: post
 title: Election Reflection...
 ---
-<html>
-<meta charset="utf-8"><style>
+<style>
 body {
   font: 11px sans-serif;
 }
@@ -26,7 +25,7 @@ body {
   pointer-events: none;
 }
 </style>
-<body>
+
 <script src="http://d3js.org/d3.v3.min.js"></script>
 
 <script>
@@ -159,5 +158,3 @@ d3.csv("/interactive_scatter_data.csv", function(error, data) {
 });
 
 </script>
-</body>
-</html>
