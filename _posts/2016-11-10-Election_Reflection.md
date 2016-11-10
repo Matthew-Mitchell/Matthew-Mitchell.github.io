@@ -2,8 +2,8 @@
 layout: post
 title: Election Reflection...
 ---
-
-<style>
+<html>
+<meta charset="utf-8"><style>
 body {
   font: 11px sans-serif;
 }
@@ -159,3 +159,5 @@ d3.csv("http://Matthew-Mitchell.github.io/interactive_scatter_data.csv", functio
 });
 
 </script>
+</body>
+</html>
