@@ -11,6 +11,15 @@ See my previous posts: [Primaries and the General Election](https://matthew-mitc
 Thanks!
 
 
+
+This is from a [Stack Overflow question](http://stackoverflow.com/questions/22651346/how-to-embed-a-d3-js-example-to-the-jekyll-blog-post) about embedding a d3.js example in a Jekyll blog post (written in Markdown).
+
+This should work, but it looks like the challenge from the [referenced d3 example](http://bl.ocks.org/mbostock/4061502) is have a proper target element in the document. The example uses an `<iframe>` element, which embeds another HTML document where the target element is `<body>`. Here, I've embedded the same iframe:
+
+<iframe src="http://bl.ocks.org/mbostock/raw/4061502/0a200ddf998aa75dfdb1ff32e16b680a15e5cb01/" width="600" height="400" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+And here, I've used d3 to target an element `<div id="example">` in this document:
+
 <style>
 
 div.example {
@@ -124,5 +133,8 @@ To do this, I made the following changes:
 - create a new element called `<div id="example"></div>`
 
 Check out [the code for this post on GitHub](https://raw.githubusercontent.com/nicksuch/nicksuch.github.io/master/_posts/2014-03-26-d3-sample.md) to see how I did it!
+
+
+
 
 
