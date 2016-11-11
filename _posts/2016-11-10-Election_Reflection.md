@@ -6,6 +6,6 @@ Much of the country is still in shock given the recent election, and with that I
 
 [http://bl.ocks.org/Matthew-Mitchell/4871ba8826bd9a1a44444af0f6c297ea](http://bl.ocks.org/Matthew-Mitchell/4871ba8826bd9a1a44444af0f6c297ea)
 
-See my previous posts:[Primaries and the General Election] (https://matthew-mitchell.github.io/Primaries_and_the_General_Election/) and [Election Data](https://matthew-mitchell.github.io/Election_Data/) for more details.
+See my previous posts: [Primaries and the General Election](https://matthew-mitchell.github.io/Primaries_and_the_General_Election/) and [Election Data](https://matthew-mitchell.github.io/Election_Data/) for more details.
 
 Thanks!
