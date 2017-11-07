@@ -2,7 +2,7 @@
 layout: post
 title: Cable TV Subscribers by Nielson DMAs
 ---
-<iframe src="https://vida.io/gists/76Ppn74wsDD3pPKnm" marginwidth="0" marginheight="0" scrolling="no" width="900" height="700"></iframe>
+<iframe src="https://vida.io/gists/76Ppn74wsDD3pPKnm" marginwidth="0" marginheight="0" scrolling="no" width="500" height="400"></iframe>
 
 [View this map and source code full screen!](http://bl.ocks.org/Matthew-Mitchell/2bd320fb9a13fb1f5e0ce031630894c8)
 
