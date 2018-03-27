@@ -4,7 +4,7 @@ title: Cable TV Subscribers by Nielson DMAs
 ---
 ![Nielson Cable TV Subscribers Boston Focus]({{matthew-mitchell.github.io}}/images/Boston_Cable_Subscribers_Nielson_Data.JPG)
 
-
+![  blank ]({{matthew-mitchell.github.io}}/images/small_blank.png)
 
 While working in advertising, I became painfully aware of how much time we spend consuming media. Below, is an interactive map of the estimated perfect of households in each Nielson Designated Marketing Area (DMA) that subscribe to cable television. As you'll see, even though there are many 'cord cutters', over half of the U.S. subscribes to Netflix, and we spend a huge amount of our day on our phones, traditional media through Television still plays a huge role. Be sure to check out the [source code!](http://bl.ocks.org/Matthew-Mitchell/2bd320fb9a13fb1f5e0ce031630894c8)!
 
