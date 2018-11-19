@@ -13,16 +13,16 @@ This is a presentation I gave for prospective students at Flatiron School. It wa
 
 ## General Data Science Outline
 
-<img src="images/ds_cycle.png" width=750>
+![  blank ]({{matthew-mitchell.github.io}}/images/nytimes_nlp/ds_cycle.png)
 
 ## Our Outline
-<img src="images/News_Analysis_Outline.jpg">
+![  blank ]({{matthew-mitchell.github.io}}/images/nytimes_nlp/News_Analysis_Outline.jpg)
 
 # Acquire Articles - The NY Times API
 
 https://developers.nytimes.com/
 
-<img src="images/nytimes_api.png" width=1050>
+![  blank ]({{matthew-mitchell.github.io}}/images/nytimes_nlp/nytimes_api.png)
 
 
 
@@ -30,14 +30,14 @@ https://developers.nytimes.com/
 
 https://developer.nytimes.com/article_search_v2.json
 
-<img src="images/nyt_docs.png" width=1000>
+![  blank ]({{matthew-mitchell.github.io}}/images/nytimes_nlp/nyt_docs.png)
 
-<img src="images/nyt_ex.png" width=1000>
+![  blank ]({{matthew-mitchell.github.io}}/images/nytimes_nlp/nyt_ex.png)
 
 #### HTTP Requests <a id="http"></a>
 HTTP stands for Hyper Text Transfer Protocol. This protocol (like many) was proposed by the Internet Engineering Task Force (IETF) through a request for comments (RFC). We're going to start with a very simple HTTP method: the get method.  
 
-![](./images/http_requests.png)
+![  blank ]({{matthew-mitchell.github.io}}/images/nytimes_nlp/http_requests.png)
 
 To learn more about HTTP methods see:  
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
@@ -48,7 +48,7 @@ To do this, we'll use the Python requests package.
 
 http://docs.python-requests.org/en/master/
 
-![](./images/requests_homepage.png)
+![  blank ]({{matthew-mitchell.github.io}}/images/nytimes_nlp/requests_homepage.png)
 
 ### Making a  get request <a id="get_request"></a>
 
