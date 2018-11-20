@@ -1,11 +1,11 @@
 ---
 layout : post
-title : Introduction to NLP Analyzing NY Times Topics
+title : Introduction to NLP - Analyzing NY Times Topics
 ---
 
 This is a presentation I gave for prospective students at Flatiron School. It was meant as an engaging introductory example that demonstrated some of the potentially cool and interesting insights students could draw after only a month or two of intesive work at the bootcamp. As such, this talk covered a wide variety of topics from the basic data science workflow, APIs, http requests, natural language processing and visualization. Despite the wide range of topics (including some fairly complex ones with Latent Dirchlet Allocation), the talk is meant to be accessible to a wide audience and demonstrate just how powerful newbie data scientists can be with the proper guidance and modularization of knowledge. With that, I hope you enjoy and start to get a glimpse at both the power and accessability of many modern day data science workflows!  
-
-
+    
+         
 # Analyzing NY Times Articles
 
 ![]({{matthew-mitchell.github.io}}/images/nytimes_nlp/new-york-times-logo.jpg)
