@@ -6,7 +6,7 @@
 name: Matthew Mitchell
 
 # Short bio or description (displayed in the header)
-description: Some Maps + Data Visualizations
+description: Data Visualizations and Tutorials
 #Previously Tangential Thoughts and Ramblings on Data Science
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
@@ -19,12 +19,12 @@ avatar:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: matthewbmitchell@gmail.com
+  email: mmitchell17@protonmail.com
   facebook:
   flickr:
   github:
   instagram:
-  linkedin:
+  linkedin: linkedin.com/in/matthew-mitchell
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
@@ -71,7 +71,7 @@ kramdown:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  style: :compressed #expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
 gems:
