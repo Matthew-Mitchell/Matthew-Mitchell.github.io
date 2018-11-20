@@ -8,7 +8,7 @@ This is a presentation I gave for prospective students at Flatiron School. It wa
 
 # Analyzing NY Times Articles
 
-![  blank ]({{matthew-mitchell.github.io}}/images/nytimes_nlp/new-york-times-logo.jpg)
+![]({{matthew-mitchell.github.io}}/images/nytimes_nlp/new-york-times-logo.jpg)
 
 ## General Data Science Outline
 
