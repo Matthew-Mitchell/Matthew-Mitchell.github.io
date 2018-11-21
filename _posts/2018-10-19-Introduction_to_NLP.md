@@ -1055,7 +1055,7 @@ plt.ylabel('Number of Articles')
 
 
 
-![png](Analyzing_NYTimes_Articles_files/Analyzing_NYTimes_Articles_38_1.png)
+![]({{matthew-mitchell.github.io}}/images/nytimes_nlp/output_38_1.png)
 
 
 
@@ -1162,7 +1162,7 @@ plt.yticks( fontsize=14)
 
 
 
-![png](Analyzing_NYTimes_Articles_files/Analyzing_NYTimes_Articles_40_1.png)
+![]({{matthew-mitchell.github.io}}/images/nytimes_nlp/output_40_1.png)
 
 
 ## Topic Modelling
@@ -1286,11 +1286,11 @@ plt.show()
 ```
 
 
-![png](Analyzing_NYTimes_Articles_files/Analyzing_NYTimes_Articles_49_0.png)
+![]({{matthew-mitchell.github.io}}/images/nytimes_nlp/output_49_0.png)
 
 
 
-![png](Analyzing_NYTimes_Articles_files/Analyzing_NYTimes_Articles_49_1.png)
+![]({{matthew-mitchell.github.io}}/images/nytimes_nlp/output_49_1.png)
 
 
 
@@ -1315,7 +1315,7 @@ plt.tight_layout()
 ```
 
 
-![png](Analyzing_NYTimes_Articles_files/Analyzing_NYTimes_Articles_51_0.png)
+![]({{matthew-mitchell.github.io}}/images/nytimes_nlp/output_51_0.png)
 
 
 ## Summary
