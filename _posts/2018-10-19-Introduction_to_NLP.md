@@ -9,7 +9,11 @@ This is a presentation I gave for prospective students at Flatiron School. It wa
          
 # Analyzing NY Times Articles
 
-![]({{matthew-mitchell.github.io}}/images/nytimes_nlp/new-york-times-logo.jpg)
+In this mini demo, we'll acquire some recent New York Times articles regarding politics and categorize them into general topics using Latent Dirichlet Allocation (LDA). Afterwards, we'll visualize these results as some nifty little word clouds like this:
+
+![]({{matthew-mitchell.github.io}}/images/nytimes_nlp/output_51_0.png)
+
+With that, let's briefly take a look at a standard data science workflow, as well as an outline for this particular project.
 
 ## General Data Science Outline
 
